@@ -57,9 +57,7 @@ public class OverviewView extends AbstractView {
       		_tf.setValue("");
       		Press.addComponent(_tf);
 //Textarea(Kommentar)//
-//      		AbsoluteLayout layout = new AbsoluteLayout();
-//      		layout.setWidth("1080px");
-//      		layout.setHeight("1920px");
+
       		final FancyCssLayout Kom = new FancyCssLayout();
       		Kom.setSlideEnabled(true);
               Kom.setSizeFull();
